@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nitzan Tregerman
+# Hi there 👋 I am Nitzan Tregerman
 
 I am a freelance motion graphics artist / designer. My main focus is mostly procedural generation, generative design and math.
 I'm always keen to work with new people and collaborate on good projects so don't be shy and say hi :)
@@ -12,7 +12,7 @@ For the past few months I have been sharing some of my projects for free with ev
 * [Davidope I](https://github.com/nitzan-treg/2021_10_08_dvdp_I)
 * [Fractal Ornament](https://github.com/nitzan-treg/2021_10_03_Fractal-Ornament)
 
-
+<img alt = "gif" src="Images/2021_10_16_polar_trail_3.gif">
 
 <!--
 **nitzan-treg/nitzan-treg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
