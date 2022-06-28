@@ -7,6 +7,13 @@ you can check out my website at [nitzan-tregerman.com](https://www.nitzan-treger
 
 # Community Projects
 
+I share my personal projects for free with everyone. Feel free to open and explore them, grab what you like.
+‍<br>
+
+If you any question you are welcome to send me a message at nitzan.tregerman@gmail.com
+
+<br>
+
 <p>
   <img align="right" width="200" src="Images/2021_10_16_polar_trail_3.gif">
 
