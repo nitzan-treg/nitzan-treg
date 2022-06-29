@@ -1,4 +1,4 @@
-# Hi there 👋 I am Nitzan Tregerman
+<h1> Hi there 👋 I am Nitzan Tregerman </h1>
 
 I am a freelance motion graphics artist / designer. My main focus is mostly procedural generation, generative design and math.
 I'm always keen to work with new people and collaborate on good projects so don't be shy and say hi :)
@@ -6,7 +6,9 @@ I'm always keen to work with new people and collaborate on good projects so don'
 you can check out my website at [nitzan-tregerman.com](https://www.nitzan-tregerman.com)
 
 <p>
-<h1> # Community Projects </h1>
+<br>
+
+<h1> Community Projects </h1>
 
 I share my personal projects for free with everyone. Feel free to open and explore them, grab what you like.
 <br>
@@ -16,6 +18,8 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 </p>
+
+<section>
 <p>
   <img align="right" height="200" src="Images/2021_10_16_polar_trail_3.gif">
 
@@ -23,13 +27,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is an experiment with curves and polar coordinates, I tried to create an interesting animation by animating the U, V, or Radius components of the Polar Coordinates
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
 
+<section>
 <p>
   <img align="right" height="200" src="Images/polar_particles_(2)_200x200.gif">
 
@@ -37,23 +44,33 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is an experiment with particles and polar coordinates, I tried to create an interesting animation by animating the U, V or Radius compounents of the Polar Coordinates
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-<br><p>
+<section>
+<p>
   <img align="right" height="200" src="Images/2021_10_25_loops_and_subdivisions_I2.gif">
 
   ## [loops_and_subdivisions I](https://github.com/nitzan-treg/2021_10_25_loops_and_subdivisions.git)
 
   This project is based on Entagma's tutorial: https://entagma.com/loops-subdivisions/ the tutorial teachs how to recursively subdivide and deform geometry.
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
+<section>
 <p>
   <img align="right" height="200" src="Images/2021_10_26_loops_and_subdivisions_I_2.gif">
 
@@ -61,11 +78,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This project is based on Entagma's tutorial: https://entagma.com/loops-subdivisions/ the tutorial teachs how to recursively subdivide and deform geometry.
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
+<section>
 <p>
   <img align="right" height="200" src="Images/2021_11_10_Follow_the_ball.gif">
 
@@ -73,11 +95,17 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
+<section>
 <p>
   <img align="right" height="200" src="Images/2021_10_28_Purple_Mountain_3.gif">
 
@@ -85,10 +113,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_08_dvdp_I_v02_200x200.gif">
@@ -97,12 +131,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_09_dvdp_II_200x200.gif">
@@ -111,12 +149,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_12_dvdp_III_200x200.gif">
@@ -125,12 +167,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_13_dvdp_IV_200x200.gif">
@@ -139,12 +185,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_15_ROY_polar_cord.png">
@@ -159,6 +209,8 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 <br>
+<br>
+</section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_04_Strange Attactor.png">
@@ -174,6 +226,9 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 
+<br>
+<section>
+
 <p>
   <img align="right" height="200" src="Images/2021_11_11_silver flower.png">
 
@@ -181,12 +236,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_05 Blue_Spiral.jpg">
@@ -195,12 +254,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_20_The Red Box.png">
@@ -209,6 +272,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
@@ -217,8 +281,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 <br>
-<br>
-<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_18_wormhole.png">
@@ -227,6 +290,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
@@ -235,8 +299,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 <br>
-<br>
-<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_06_ Reaction_Diffusion_200x200.gif">
@@ -245,10 +308,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_10_01_Curl_noise_flow.png">
@@ -257,10 +326,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/2021_00_00_Fractal Ornament.png">
@@ -269,10 +344,16 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<section>
 
 <p>
   <img align="right" height="200" src="Images/Differential_Line_Growth_v02.jpg">
@@ -281,3 +362,4 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
   This is the code you need to align images to the left:
 </p>
+</section>
