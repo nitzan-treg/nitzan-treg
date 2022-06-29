@@ -27,7 +27,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 </p>
 </section>
 
-
+<br>
 <br>
 <br>
 <br>
@@ -43,6 +43,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 </p>
 </section>
 
+<br>
 <br>
 <br>
 <br>
@@ -118,7 +119,6 @@ This is an experiment with camera rig and motion graphics, I tried to create an 
 It is an expiriment on stacking animation of rotation matrices together. the rotation amplitude is determined by the distance of the points from the origin.
 
 Stacking different rotation matricies together results in a contrast of speed which turns out as an interesting animation.
-
 </p>
 </section>
 
@@ -135,7 +135,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 </p>
 </section>
 
-
+<br>
 <br>
 <br>
 <br>
@@ -152,7 +152,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 </section>
 
 <br>
-
+<br>
 <br>
 <br>
 <br>
@@ -189,6 +189,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 <br>
 <br>
 <br>
+<br>
 
 <section>
 <p>
@@ -217,6 +218,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 </p>
 </section>
 
+<br>
 <br>
 <br>
 <br>
@@ -267,6 +269,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 <br>
 <br>
 <br>
+<br>
 
 <section>
 <p>
@@ -293,6 +296,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 </p>
 </section>
 
+<br>
 <br>
 <br>
 <br>
