@@ -6,7 +6,6 @@ I'm always keen to work with new people and collaborate on good projects so don'
 you can check out my website at [nitzan-tregerman.com](https://www.nitzan-tregerman.com)
 
 <p>
-<br>
 <h1> Community Projects </h1>
 
 I share my personal projects for free with everyone. Feel free to open and explore them, grab what you like.
