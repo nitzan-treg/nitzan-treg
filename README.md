@@ -20,7 +20,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <section>
 <p>
   [<img align="right" height="200" src="Images/2021_10_16_polar_trail_3.gif" />](https://github.com/nitzan-treg/Polar_Trail.git)
-  <img align="right" height="200" src="Images/2021_10_16_polar_trail_3.gif">
+  
 
   ## [Polar Trail](https://github.com/nitzan-treg/Polar_Trail.git)
 
