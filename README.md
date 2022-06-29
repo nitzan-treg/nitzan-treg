@@ -31,6 +31,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <br>
 <br>
 <br>
+<br>
 
 <section>
 <p>
@@ -42,6 +43,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 </p>
 </section>
 
+<br>
 <br>
 <br>
 <br>
