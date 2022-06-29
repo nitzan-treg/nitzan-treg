@@ -285,6 +285,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 <br>
 <br>
 <br>
+<br>
 
 <section>
 <p>
@@ -296,6 +297,7 @@ Stacking different rotation matricies together results in a contrast of speed wh
 </p>
 </section>
 
+<br>
 <br>
 <br>
 <br>
