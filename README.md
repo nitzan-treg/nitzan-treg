@@ -19,16 +19,14 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 
 <section>
 <p>
-  [<img align="right" height="200" src="Images/2021_10_16_polar_trail_3.gif" />](https://github.com/nitzan-treg/Polar_Trail.git)
+  <img align="right" height="200" src="Images/2021_10_16_polar_trail_3.gif">
   
-
   ## [Polar Trail](https://github.com/nitzan-treg/Polar_Trail.git)
 
   This is an experiment with curves and polar coordinates, I created the curves using a curl noise marching and then deformed it by using polar coordinates.
 </p>
 </section>
 
-<br>
 <br>
 <br>
 <br>
@@ -44,7 +42,6 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 </p>
 </section>
 
-<br>
 <br>
 <br>
 <br>
