@@ -37,7 +37,7 @@ If you any question you are welcome to send me a message at nitzan.tregerman@gma
 <p>
   <img align="right" height="200" src="Images/polar_particles_(2)_200x200.gif">
 
-  ## [Polar Particles](https://github.com/nitzan-treg/2021_10_03_Fractal-Ornament)
+  ## [Polar Particles](https://github.com/nitzan-treg/2021_10_17_Polar_Particles.git)
 
   This is an experiment with particles and polar coordinates, I created a particle simulation that flows along the Y axis and then deformed it by using polar coordiantes.
 </p>
