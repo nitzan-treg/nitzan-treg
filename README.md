@@ -6,7 +6,21 @@ I'm always keen to work with new people and collaborate on good projects so don'
 you can check out my website at [nitzan-tregerman.com](https://www.nitzan-tregerman.com)
 
 <p>
-<h1> Community Projects </h1>
+  
+# [ntLib - Houdini open-source library](https://github.com/nitzan-treg/ntLib)
+
+<img align="right" height="200" src="https://github.com/nitzan-treg/ntLib/blob/master/Images/Extrude_subdivision.gif">
+
+I create an open-source library of Houdini HDA's (Houdini Digital Assets) It includes tools for simulating dynamics, procedural generation and generative art.
+
+This is my way to give back to the community. I'm sharing my development with you so we can all learn from it. A lot of the tools are discovered through RnD and the study of math.
+
+
+<br>
+
+<p>
+  
+# [Community Projects](https://github.com/nitzan-treg/community_projects)
 
 I share my personal projects for free with everyone. Feel free to open and explore them, grab what you like.
 <br>
