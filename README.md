@@ -3,7 +3,7 @@
 I am a freelance motion graphics artist / designer. My main focus is mostly procedural generation, generative design and math.
 I'm always keen to work with new people and collaborate on good projects so don't be shy and say hi :)
 
-you can check out my website at [nitzan-tregerman.com](https://www.nitzan-tregerman.com)
+you can check out my website at [nitzan-tregerman.com](https://www.nitzantregerman.com)
 
 <p>
   
