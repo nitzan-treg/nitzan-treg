@@ -25,7 +25,7 @@ This is my way to give back to the community. I'm sharing my development with yo
 I share my personal projects for free with everyone. Feel free to open and explore them, grab what you like.
 <br>
 
-If you any question you are welcome to send me a message at nitzan.tregerman@gmail.com
+If you any question you are welcome to send me a message at nitzan@nitzantregerman.com
 <br>
 <br>
 <br>
